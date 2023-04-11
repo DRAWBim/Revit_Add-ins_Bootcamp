@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Revit_Add-ins_Bootcamp - Command 1</Text>
+    <Description>Some description for Revit_Add-ins_Bootcamp</Description>
+    <Assembly>Revit_Add_ins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Add_ins_Bootcamp.Command1</FullClassName>
+    <ClientId>7085a10b-8022-4b47-8757-8d70a327516c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Revit_Add-ins_Bootcamp - Command 2</Text>
+    <Description>Some description for Revit_Add-ins_Bootcamp</Description>
+    <Assembly>Revit_Add_ins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Add_ins_Bootcamp.Command2</FullClassName>
+    <ClientId>75a3e940-f7e6-42d2-a17d-5f387d9206f1</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Revit_Add-ins_Bootcamp</Name>
+    <Assembly>Revit_Add_ins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Add_ins_Bootcamp.App</FullClassName>
+    <ClientId>f5aacdd4-ad69-48c4-a246-46749b4d4cdb</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
